@@ -1,2 +1,2 @@
 # opt_phyton
-Registro de futuros trabajos.
+Registro de códigos.
