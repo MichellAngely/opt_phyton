@@ -14,7 +14,7 @@ print(f"Holaa, soy {minombre} y tengo {miedad} añitos :D")
 prueba = "Estoy aprendiendo un lenguaje de programación"
 
 #Número de caracteres
-cantidad = len(Prueba)
+cantidad = len(prueba)
 
 print(f"La frase tiene un total de {Cantidad} caracteres.")
 
