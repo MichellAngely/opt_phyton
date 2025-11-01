@@ -11,10 +11,10 @@ print(f"Holaa, soy {minombre} y tengo {miedad} añitos :D")
 #Ejercicio 6
 
 #Variable con frase:
-Prueba = "Estoy aprendiendo un lenguaje de programación"
+prueba = "Estoy aprendiendo un lenguaje de programación"
 
 #Número de caracteres
-Cantidad = len(Prueba)
+cantidad = len(Prueba)
 
 print(f"La frase tiene un total de {Cantidad} caracteres.")
 
