@@ -4,7 +4,7 @@ leche = 3.40
 azucar = 7.30
 café = 4.40
 
-total = Leche + Azucar + Cafe
+total = leche + azucar + cafe
 precio_medio = total / 3
 
 print("El total de su compra es:", total, "$")
@@ -24,4 +24,5 @@ print("Mi altura es:", altura_cm, "cm")
 miEdad_actual = 18
 miedad_2030 = miedad_actual + (2030 - 2025)
 print("Mi edad en el año 2030 será:", miedad_2030)
+
 
