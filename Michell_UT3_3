@@ -1,0 +1,10 @@
+#Michell
+#Ejercicio 3 Escribe un programa que lea un número e indique si es par o impar.
+
+num1 = float(input("Ingrese el primer numero: "))
+num2 = float(input("Ingrese el segundo numero: "))
+
+if num1 != 0:
+    print("La división es:",num1/num2)
+else:
+    print("No se puede dividir entre 0")
