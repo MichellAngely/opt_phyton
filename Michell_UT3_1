@@ -1,0 +1,11 @@
+#Michell
+#Algoritmo que pida dos números e indique si el primero es mayor que el segundo o no.
+
+num1= float(input("Ingresa el primer número: "))
+num2= float(input("Ingresa el segundo número"))
+
+if num1 > num2:
+    print("Tú primer número es mayor que el segundo!")
+
+else:
+    print("Tú primer número no es mayor que el segundo :(")
