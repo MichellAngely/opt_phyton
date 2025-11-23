@@ -1,0 +1,9 @@
+#Michell
+#Ejercicio 6
+
+cadena = input("Introduce una cadena de texto: ")
+
+if cadena.isupper():
+    print("La cadena está en mayúsculas.")
+else:
+    print("La cadena NO está en mayúsculas.")
