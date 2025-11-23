@@ -1,0 +1,12 @@
+#Michell
+#Ejercicio 9
+
+a = float(input("Introduce el primer número: "))
+b = float(input("Introduce el segundo número: "))
+c = float(input("Introduce el tercer número: "))
+
+# Ordenamos usando sorted
+numeros = sorted([a, b, c], reverse=True)
+
+print("Números ordenados de mayor a menor:")
+print(numeros[0], numeros[1], numeros[2])
